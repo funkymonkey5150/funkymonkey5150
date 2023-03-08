@@ -1,6 +1,16 @@
 - 👋 Hi, I’m @funkymonkey5150
 - 👀 I’m interested Crypto,smartcontracts and 
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning ...SOLIDITY FOR smart contracts 
+- Solidity
+Vyper
+Go
+Huff
+Rust
+Move
+Cairo
+Haskell
+web 3 Development and NFT alongside with crypto wallets and programs to intergrate todays web 2  to fast growing web3.
+
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
