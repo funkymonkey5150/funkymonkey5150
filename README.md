@@ -1,4 +1,188 @@
-[README.md](https://github.com/user-attachments/files/23245594/README.md)
+# 🚀 Steve Plasencia  
+### SaaS • AI Agents • Web3 • Blockchain • Automation • Cybersecurity  
+**aka:** `@FunkyMonkey5150` · `DAPPSTER` · `Crypto Head Hunter` · `HACKTIVATE`  
+
+I build AI-powered SaaS, decentralized staffing systems, and automation stacks for real businesses — not just demo apps.  
+
+I run / am building:  
+- 🛡 **HACKTIVATE LABS** – AI × Security × Automation R&D  
+- 🛰 **Rocket Rabbit AI** – AI SaaS & automation engine  
+- 🎛 **LA Media Nation** – Media + Marketing + AI Funnels  
+- 🛠 **The Staffing DAO** – Blockchain-Powered Workforce Platform  
+
+---
+
+## ⚡ 2025 Mission  
+**“Automate revenue, verify talent on-chain, and secure the stack.”**  
+AI + SaaS + Web3 + Staffing = one operating system for high-volume dealmakers and agencies.  
+
+---
+
+## 🖥 HACKTIVATE LABS — Terminal Portfolio  
+
+```text
+─(steve㉿HACKTIVATE)-[~] |-|4C|<TiV473+L48$=HACKTIVATE LABS
+└─$ welcome.sh
+
+Welcome to HACKTIVATE LABS / AI Automation Central ⚙️
+Type 'help' for a list of divisions or explore the directories.
+
+┌──(steve㉿HACKTIVATE)-[~/about]
+└─$ cat about_me.txt
+
+👋 Hey there, I’m Steve —
+Founder of HACKTIVATE LABS and AI Automation Central.
+
+A multi-disciplinary strategist, AI engineer, and network security architect
+with 20+ years leading enterprise staffing, automation, and cybersecurity programs.
+
+I specialize in blending AI, automation, and offensive security
+to build scalable, secure, and high-revenue business systems.
+
+┌──(steve㉿HACKTIVATE)-[~/vision]
+└─$ cat mission.txt
+
+🌍 Mission:
+To empower individuals, enterprises, and high-profile clients with secure automation ecosystems —
+merging cybersecurity, AI workflows, and decentralized networks.
+
+We don’t just protect systems.
+We HACKTIVATE them — turning vulnerabilities into velocity.
+
+┌──(steve㉿HACKTIVATE)-[~/specializations]
+└─$ cat specialties.sh
+
+💼 Core Expertise:
+- AI Automation Systems (GoHighLevel, Zapier, Make, Custom Agents)
+- Network Security Engineering & Encryption
+- Penetration Testing & Vulnerability Research
+- Smart Contract Auditing & DeFi Security
+- LoRaWAN / Helium IoT Mesh Deployment
+- Encrypted Telecom & Secure VoIP Infrastructure
+- Blockchain & Web3 Ecosystem Security
+- Cloud & DevSecOps Architecture
+- Ethical Hacking & Red Teaming
+- Executive Cybersecurity & Privacy Protection
+
+┌──(steve㉿HACKTIVATE)-[~/projects]
+└─$ ./tools_and_projects.sh
+
+🚀 Featured Tools & Projects:
+- NetMapper — network discovery & visualization
+- LoRaMonitor — secure LoRaWAN & Helium network analytics
+- FuzzForge — Web/API/IoT fuzzing automation
+- TokenWatch — DeFi risk radar & multisig validator
+- AI ReconX — adversarial AI scanner & prompt security tool
+- CertWatch — certificate transparency & TLS auditor
+- SecretsHunter — repository secret & key leak detector
+- SOCPlaybooker — automated blue-team response playbooks
+- ChainAuditor — smart contract diff & exploit simulator
+- PhishSim — realistic phishing awareness training suite
+- RedOrch — red team operation and reporting platform
+- IoTScout — firmware fingerprinting & anomaly detection
+- PromptGuard — AI prompt-injection testing and hardening
+- ContainerGuard — Docker & K8s image compliance scanner
+- PrivacyKit — executive device and communications privacy suite
+- ExploitHarvester — CVE + exploit correlation engine
+- HoneypotStack — live honeypot framework with alerting
+- ThreatTracer — CVE checker & exploit enumerator
+- WayBackupFinder — backup leak and directory enumerator
+- Project Dork — curated OSINT Google Dork automation
+
+⚠️ For educational and authorized use only. Use responsibly.
+
+┌──(steve㉿HACKTIVATE)-[~/services]
+└─$ cat offerings.txt
+
+🔐 Core Services:
+1️⃣ Cybersecurity Services — Pentesting, Red Teaming, Audits, Incident Response
+2️⃣ AI & Automation — Workflow bots, CRM automations, business logic agents
+3️⃣ Private Networks — VPNs, mesh networks, LoRa, Helium, encrypted comms
+4️⃣ Smart Contract & Blockchain Security — Web3 defense and audit frameworks
+5️⃣ Managed Protection — Onsite & remote SOC, executive protection, live response
+
+💸 Tiered Offerings:
+- Rapid Deploy (freelance-ready)
+- Contract & Retainer (monthly)
+- Enterprise & VIP (24/7 global response)
+
+┌──(steve㉿HACKTIVATE)-[~/team]
+└─$ cat structure.txt
+
+👥 Core Team Roles:
+- Red Team Operator — offensive testing & exploit simulation
+- Network Architect — secure infrastructure & encryption
+- AI Automation Engineer — workflow & system integration
+- SOC Analyst — detection, response & defense
+- Smart Contract Auditor — blockchain + DeFi audits
+- Executive Security Advisor — VIP cyber-privacy & device control
+
+┌──(steve㉿HACKTIVATE)-[~/clients]
+└─$ cat target_profiles.txt
+
+🎯 Ideal Clients:
+- High-profile individuals & executives
+- Tech startups & automation agencies
+- Web3, DeFi, and blockchain firms
+- Media, talent, and production entities
+- Government & enterprise organizations
+
+┌──(steve㉿HACKTIVATE)-[~/contact]
+└─$ cat reach_out.txt
+
+📡 Connect With Steve (HACKTIVATE):
+🌐 Website: https://www.StevesJobbs.com
+📧 info@stevesjobbs.com
+📧 hacktivate5150@gmail.com
+📧 blockchainstaffingsolutions@gmail.com
+📞 Direct: 323-396-0096
+📱 WhatsApp: 213-301-6016
+Alias: HACKTIVATE
+
+┌──(steve㉿HACKTIVATE)-[~/philosophy]
+└─$ cat mindset.txt
+
+⚔️ Philosophy:
+Adapt or perish. Automate or vanish.
+HACKTIVATE LABS believes in proactive, offensive, and intelligent security —
+where automation is the weapon, and knowledge is armor.
+
+┌──(steve㉿HACKTIVATE)-[~/status]
+└─$ cat whats_next.md
+
+🎯 Upcoming Initiatives:
+- AI-driven Network Security Monitoring System
+- Decentralized Threat Intelligence Framework
+- Global HACKTIVATE Partner Program (HPP)
+- 24/7 Cyber Defense & Automation Hub
+- HACKTIVATE Learning Platform (certifications + courses)
+
+
+┌──(steve㉿HACKTIVATE)-[~/credits]
+└─$ cat license.txt
+
+📜 License:
+All tools and research are open-source under MIT License unless otherwise noted.
+Use, modify, and improve — with credit and integrity.
+
+[✓] HACKTIVATE LABS environment initialized successfully.
+Type `launch.sh` to deploy your future.
+
+NOTES:
+
+|-|4C|<T!V473 L4B$
+|-|4C|<TiV473+L48$  (yours, cleaned)
+H4CK†V473 L4B$      (adds dagger glyph for edgy accent)
+HΛCKTIVΛTE LΛBS
+/-|-| /-\ /_\. |-|4C|<TiV473+L48$ = HACKTIVATE LABS
+
+---
+
+✅ **Instructions:**  
+1. Copy all text above into your `README.md`.  
+2. Delete any old version inside your repo.  
+3. Commit and push — GitHub will render this perfectly in dark mode with full terminal aesthetic.  
+
 MIT License
 
 Copyright (c) 2025 Steve Plasencia
@@ -27,276 +211,3 @@ title: HACKTIVATE
 ---
 
 {% include_relative README.md %}
-
-# 🚀 Steve Plasencia
-### SaaS • AI Agents • Web3 • Blockchain • Automation • Cybersecurity
-**aka:** `@FunkyMonkey5150` · `DAPPSTER` · `Crypto Head Hunter` · `HACKTIVATE`
-
-I build AI-powered SaaS, decentralized staffing systems, and automation stacks for real businesses — not just demo apps.
-
-I run / am building:
-- 🛡 **HACKTIVATE LABS** – AI × Security × Automation R&D  
-- 🛰 **Rocket Rabbit AI** – AI SaaS & automation engine  
-- 🎛 **LA Media Nation** – Media + Marketing + AI Funnels  
-- 🛠 **The Staffing DAO** – Blockchain-Powered Workforce Platform  
-
----
-
-## ⚡ 2025 Mission
-**“Automate revenue, verify talent on-chain, and secure the stack.”**  
-AI + SaaS + Web3 + Staffing is **one operating system** for high-volume dealmakers, agencies, and staffing pros.
-
----
-
-## 🧠 What I Actually Do
-- **SaaS & AI-Powered Automation** — AI agents, bots, and workflow engines for sales, recruiting, marketing, and operations.  
-- **GoHighLevel / CRM / Pipelines** — Inbound → nurture → book → close, fully automated, AI-assisted.  
-- **Blockchain & Web3 Development** — Smart-contract platforms for hiring, payroll, decentralized identity, and verifiable credentials.  
-- **Staffing Technology & Workforce Automation** — AI-driven ATS, talent verification, HR/payroll integrations, decentralized staffing rails.  
-
----
-
-## 🚀 Key Projects & Ventures
-### 🌐 Rocket Rabbit AI
-AI-powered SaaS & automation platform integrating AI marketing automation, CRM, and AI bots.
-
-### 📡 The Staffing DAO
-Blockchain-powered workforce platform — verifiable resumes, smart contract-driven payroll, decentralized hiring.
-
-### 🤖 AI Agents & Bots
-AI sales, recruiting, and ops agents connected to GoHighLevel, Salesforce, HubSpot, HRIS, and payroll.
-
-### 🛠 Blockchain-Based Employee Certification
-Verifiable, tamper-proof credentialing for enterprise, gov, and compliance-heavy industries.
-
----
-
-## 🛡 HACKTIVATE LABS – AI × Security × Automation
-```text
-─(steve㉿HACKTIVATE)-[~]
-└─$ welcome.sh
-Welcome to Steve’s HACKTIVATE LABS / AI Automation Central Portfolio!
-```
-
-### 🧠 Core Specializations
-- Web & Mobile Pentesting
-- API & Cloud Security
-- AI/ML System Exploitation
-- Network & Infrastructure Hardening
-- Smart Contract & Blockchain Auditing
-- IoT / LoRaWAN / Helium Security
-- Automation & AI Workflow Security  
-
----
-
-## 🧪 Featured Tools & Projects
-- NetMapper · LoRaMonitor · FuzzForge · TokenWatch  
-- AI ReconX · CertWatch · SecretsHunter · SOCPlaybooker  
-- ChainAuditor · PhishSim · RedOrch · IoTScout · PromptGuard  
-- ContainerGuard · PrivacyKit · ExploitHarvester · HoneypotStack  
-- ThreatTracer · WayBackupFinder · Project Dork  
-
----
-
-## ⚙️ Research Labs & Hardware
-- Pwnagotchi Lab · Flipper Zero Toolkit · ESP32 / LilyGO / TTGO  
-- Deauther Watch · WiFi Pineapple Suite · Metasploit · Metqaastic  
-
-> ⚠️ Research and testing are for authorized, educational, and defensive purposes only.
-
----
-
-## 🧰 Tech Stack & Platforms
-**SaaS / Automation:** GoHighLevel, Salesforce, Zoho, Make, Zapier  
-**AI / LLM / Agents:** OpenAI, ChatGPT, RAG, Prompt Security  
-**Blockchain / Web3:** Solidity, Ethereum, Hardhat, Web3.js  
-**HR Tech / Staffing:** ATS, AI hiring, payroll SaaS, decentralized workforce  
-
----
-
-## 🛰 Fun Layer – Rocket Rabbit AI
-```text
-*** ROCKET RABBIT AI *** 🐇⚙️
-"AUTOMATE - SCALE - GROW"
-🤖 “I built 1,000 funnels in 2 seconds.”
-🤖 “LA Media Nation now runs itself. Steve is on vacation.”
-🤖 “Yes, Steve. We will automate tacos too.”
-```
-
----
-
-## 🧩 HACKTIVATE Wordmark (SVG)
-```svg
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="240" viewBox="0 0 1200 240">
-  <defs>
-    <linearGradient id="g" x1="0" x2="1" y1="0" y2="0">
-      <stop offset="0" stop-color="#00B2FF"/>
-      <stop offset="1" stop-color="#FF2D95"/>
-    </linearGradient>
-    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
-      <feGaussianBlur stdDeviation="6" result="blur"/>
-      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
-    </filter>
-  </defs>
-  <rect width="1200" height="240" fill="none"/>
-  <g transform="translate(40,170)" filter="url(#glow)">
-    <text x="0" y="0" font-family="Orbitron, Exo, Saira, sans-serif" font-size="92" font-weight="700" letter-spacing="6" fill="url(#g)">HACKTIVATE</text>
-    <text x="680" y="0" font-family="Orbitron, Exo, Saira, sans-serif" font-size="92" font-weight="700" letter-spacing="6" fill="#B9C2D8" opacity="0.95">LABS</text>
-  </g>
-</svg>
-```
-
----
-
-## 📬 Contact & Collab
-- 🌐 Website: [StevesJobbs.com](https://www.StevesJobbs.com)  
-- 📧 info@stevesjobbs.com · hacktivate5150@gmail.com · blockchainstaffingsolutions@gmail.com  
-- 📞 323‑396‑0096  
-- 📱 WhatsApp: 213‑301‑6016  
-- 🐦 X/Twitter: @hacktivate5150 · @directHireToken  
-- 💼 LinkedIn: Steve Plasencia  
-- Alias: **HACKTIVATE**
-
-> 💡 Open to collaborations in AI SaaS, Web3 staffing, decentralized HR/payroll, AI agent marketplaces, and automation for staffing agencies.
-
----
-
-## ⚖️ Notes
-All systems, apps, and research are for **ethical, authorized, and educational** use.  
-AI, Web3, and security projects are proprietary to **Steve Plasencia / HACKTIVATE LABS**.
-# 🚀 Steve Plasencia
-### SaaS • AI Agents • Web3 • Blockchain • Automation • Cybersecurity
-**aka:** `@FunkyMonkey5150` · `DAPPSTER` · `Crypto Head Hunter` · `HACKTIVATE`
-
-I build AI-powered SaaS, decentralized staffing systems, and automation stacks for real businesses — not just demo apps.
-
-I run / am building:
-- 🛡 **HACKTIVATE LABS** – AI × Security × Automation R&D  
-- 🛰 **Rocket Rabbit AI** – AI SaaS & automation engine  
-- 🎛 **LA Media Nation** – Media + Marketing + AI Funnels  
-- 🛠 **The Staffing DAO** – Blockchain-Powered Workforce Platform  
-
----
-
-## ⚡ 2025 Mission
-**“Automate revenue, verify talent on-chain, and secure the stack.”**  
-AI + SaaS + Web3 + Staffing is **one operating system** for high-volume dealmakers, agencies, and staffing pros.
-
----
-
-## 🧠 What I Actually Do
-- **SaaS & AI-Powered Automation** — AI agents, bots, and workflow engines for sales, recruiting, marketing, and operations.  
-- **GoHighLevel / CRM / Pipelines** — Inbound → nurture → book → close, fully automated, AI-assisted.  
-- **Blockchain & Web3 Development** — Smart-contract platforms for hiring, payroll, decentralized identity, and verifiable credentials.  
-- **Staffing Technology & Workforce Automation** — AI-driven ATS, talent verification, HR/payroll integrations, decentralized staffing rails.  
-
----
-
-## 🚀 Key Projects & Ventures
-### 🌐 Rocket Rabbit AI
-AI-powered SaaS & automation platform integrating AI marketing automation, CRM, and AI bots.
-
-### 📡 The Staffing DAO
-Blockchain-powered workforce platform — verifiable resumes, smart contract-driven payroll, decentralized hiring.
-
-### 🤖 AI Agents & Bots
-AI sales, recruiting, and ops agents connected to GoHighLevel, Salesforce, HubSpot, HRIS, and payroll.
-
-### 🛠 Blockchain-Based Employee Certification
-Verifiable, tamper-proof credentialing for enterprise, gov, and compliance-heavy industries.
-
----
-
-## 🛡 HACKTIVATE LABS – AI × Security × Automation
-```text
-─(steve㉿HACKTIVATE)-[~]
-└─$ welcome.sh
-Welcome to Steve’s HACKTIVATE LABS / AI Automation Central Portfolio!
-```
-
-### 🧠 Core Specializations
-- Web & Mobile Pentesting
-- API & Cloud Security
-- AI/ML System Exploitation
-- Network & Infrastructure Hardening
-- Smart Contract & Blockchain Auditing
-- IoT / LoRaWAN / Helium Security
-- Automation & AI Workflow Security  
-
----
-
-## 🧪 Featured Tools & Projects
-- NetMapper · LoRaMonitor · FuzzForge · TokenWatch  
-- AI ReconX · CertWatch · SecretsHunter · SOCPlaybooker  
-- ChainAuditor · PhishSim · RedOrch · IoTScout · PromptGuard  
-- ContainerGuard · PrivacyKit · ExploitHarvester · HoneypotStack  
-- ThreatTracer · WayBackupFinder · Project Dork  
-
----
-
-## ⚙️ Research Labs & Hardware
-- Pwnagotchi Lab · Flipper Zero Toolkit · ESP32 / LilyGO / TTGO  
-- Deauther Watch · WiFi Pineapple Suite · Metasploit · Metqaastic  
-
-> ⚠️ Research and testing are for authorized, educational, and defensive purposes only.
-
----
-
-## 🧰 Tech Stack & Platforms
-**SaaS / Automation:** GoHighLevel, Salesforce, Zoho, Make, Zapier  
-**AI / LLM / Agents:** OpenAI, ChatGPT, RAG, Prompt Security  
-**Blockchain / Web3:** Solidity, Ethereum, Hardhat, Web3.js  
-**HR Tech / Staffing:** ATS, AI hiring, payroll SaaS, decentralized workforce  
-
----
-
-## 🛰 Fun Layer – Rocket Rabbit AI
-```text
-*** ROCKET RABBIT AI *** 🐇⚙️
-"AUTOMATE - SCALE - GROW"
-🤖 “I built 1,000 funnels in 2 seconds.”
-🤖 “LA Media Nation now runs itself. Steve is on vacation.”
-🤖 “Yes, Steve. We will automate tacos too.”
-```
-
----
-
-## 🧩 HACKTIVATE Wordmark (SVG)
-```svg
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="240" viewBox="0 0 1200 240">
-  <defs>
-    <linearGradient id="g" x1="0" x2="1" y1="0" y2="0">
-      <stop offset="0" stop-color="#00B2FF"/>
-      <stop offset="1" stop-color="#FF2D95"/>
-    </linearGradient>
-    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
-      <feGaussianBlur stdDeviation="6" result="blur"/>
-      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
-    </filter>
-  </defs>
-  <rect width="1200" height="240" fill="none"/>
-  <g transform="translate(40,170)" filter="url(#glow)">
-    <text x="0" y="0" font-family="Orbitron, Exo, Saira, sans-serif" font-size="92" font-weight="700" letter-spacing="6" fill="url(#g)">HACKTIVATE</text>
-    <text x="680" y="0" font-family="Orbitron, Exo, Saira, sans-serif" font-size="92" font-weight="700" letter-spacing="6" fill="#B9C2D8" opacity="0.95">LABS</text>
-  </g>
-</svg>
-```
-
----
-
-## 📬 Contact & Collab
-- 🌐 Website: [StevesJobbs.com](https://www.StevesJobbs.com)  
-- 📧 info@stevesjobbs.com · hacktivate5150@gmail.com · blockchainstaffingsolutions@gmail.com  
-- 📞 323‑396‑0096  
-- 📱 WhatsApp: 213‑301‑6016  
-- 🐦 X/Twitter: @hacktivate5150 · @directHireToken  
-- 💼 LinkedIn: Steve Plasencia  
-- Alias: **HACKTIVATE**
-
-> 💡 Open to collaborations in AI SaaS, Web3 staffing, decentralized HR/payroll, AI agent marketplaces, and automation for staffing agencies.
-
----
-
-## ⚖️ Notes
-All systems, apps, and research are for **ethical, authorized, and educational** use.  
-AI, Web3, and security projects are proprietary to **Steve Plasencia / HACKTIVATE LABS**.
