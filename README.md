@@ -1,4 +1,5 @@
 # 🚀 Steve Plasencia  
+https://funkymonkey5150.github.io (live profile)
 ### SaaS • AI Agents • Web3 • Blockchain • Automation • Cybersecurity  
 **aka:** `@FunkyMonkey5150` · `DAPPSTER` · `Crypto Head Hunter` · `HACKTIVATE`  
 
