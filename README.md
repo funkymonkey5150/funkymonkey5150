@@ -9,11 +9,13 @@ I run / am building:
 - 🛡 **HACKTIVATE LABS** – AI × Security × Automation R&D  
 - 🛰 **Rocket Rabbit AI** – AI SaaS & automation engine  
 - 🎛 **LA Media Nation** – Media + Marketing + AI Funnels  
-- 🛠 **The Staffing DAO** – Blockchain-Powered Workforce Platform  
+- 🛠 **The Staffing DAO** – Blockchain-Powered Workforce Platform
+-   **OffGrid Network Solutions** — remote surveillance & off-grid communication systems built for isolated environments.
+-   **VITABLEND SUPPLEMENTS ** - VITAMINS and Supplements Brand for healthier lifestyle Wellness thru holistic and natural Supplements
 
 ---
 
-## ⚡ 2025 Mission  
+## ⚡ 2025-2026 MissionS AND GOALS!
 **“Automate revenue, verify talent on-chain, and secure the stack.”**  
 AI + SaaS + Web3 + Staffing = one operating system for high-volume dealmakers and agencies.  
 
