@@ -1,216 +1,277 @@
 # 🚀 Steve Plasencia  
-https://funkymonkey5150.github.io (live profile)
-### SaaS • AI Agents • Web3 • Blockchain • Automation • Cybersecurity  
+🌐 [Live Profile](https://funkymonkey5150.github.io)  
 **aka:** `@FunkyMonkey5150` · `DAPPSTER` · `Crypto Head Hunter` · `HACKTIVATE`  
 
-I build AI-powered SaaS, decentralized staffing systems, and automation stacks for real businesses — not just demo apps.  
+---
 
-I run / am building:  
-- 🛡 **HACKTIVATE LABS** – AI × Security × Automation R&D  
-- 🛰 **Rocket Rabbit AI** – AI SaaS & automation engine  
-- 🎛 **LA Media Nation** – Media + Marketing + AI Funnels  
-- 🛠 **The Staffing DAO** – Blockchain-Powered Workforce Platform
--   **OffGrid Network Solutions** — remote surveillance & off-grid communication systems built for isolated environments.
--   **VITABLEND SUPPLEMENTS ** - VITAMINS and Supplements Brand for healthier lifestyle Wellness thru holistic and natural Supplements
+## 🛠 Technologies & Expertise
+
+🌐 **SaaS | AI Agent/Bot Development | Automation**  
+⛓️ **Web3 & Blockchain Solutions**  
+🛡️ **Cybersecurity & Network Security | Penetration Testing**  
+💻 **Full-Stack Development | Custom App & Web Design**  
+🍽️ **Restaurant Tech & Payment Processing Solutions**  
+🛒 **E-Commerce Product & Website Development**  
+📈 **Staffing & Recruiting | CRM Systems | Job Board Design | Staffing Technology**  
 
 ---
 
-## ⚡ 2025-2026 MissionS AND GOALS!
-**“Automate revenue, verify talent on-chain, and secure the stack.”**  
-AI + SaaS + Web3 + Staffing = one operating system for high-volume dealmakers and agencies.  
+## 💡 Mission
+
+**“Automate revenue, secure networks, and fully digitize businesses from Web2 → Web3.”**  
+
+I help businesses **scale, automate, and secure operations** by integrating:  
+- AI-powered workflow automation & SaaS solutions  
+- Blockchain & Web3 systems for decentralized operations  
+- Secure network architecture & penetration-tested infrastructures  
+- Full-stack custom apps, websites, and e-commerce solutions  
+- Staffing automation, CRM systems, and job board platforms  
+
+**Outcome:** Fully digital, fully automated, and fully secure businesses capable of scaling globally.
 
 ---
 
-## 🖥 HACKTIVATE LABS — Terminal Portfolio  
+## 🏢 Ventures & Projects
 
-```text
-─(steve㉿HACKTIVATE)-[~] |-|4C|<TiV473+L48$=HACKTIVATE LABS
-└─$ welcome.sh
+🛡 HACKTIVATE NETWORK SOLUTIONS — Cybersecurity & Network Security
 
-Welcome to HACKTIVATE LABS / AI Automation Central ⚙️
-Type 'help' for a list of divisions or explore the directories.
+🖥 HACKTIVATE LABS — AI, Apps, Automation, Training & R&D
 
-┌──(steve㉿HACKTIVATE)-[~/about]
-└─$ cat about_me.txt
+⚙️ AI AUTOMATION CENTRAL — AI-powered workflow agents & business automation hub
 
-👋 Hey there, I’m Steve —
-Founder of HACKTIVATE LABS and AI Automation Central.
+🛰 Rocket Rabbit AI — AI SaaS & workflow automation engine
 
-A multi-disciplinary strategist, AI engineer, and network security architect
-with 20+ years leading enterprise staffing, automation, and cybersecurity programs.
+🤖 AI ReconX — adversarial AI scanner & prompt security tool
 
-I specialize in blending AI, automation, and offensive security
-to build scalable, secure, and high-revenue business systems.
+🛡️ PromptGuard — AI prompt-injection testing & hardening
 
-┌──(steve㉿HACKTIVATE)-[~/vision]
-└─$ cat mission.txt
+📘 SOCPlaybooker — automated blue-team playbooks
 
-🌍 Mission:
-To empower individuals, enterprises, and high-profile clients with secure automation ecosystems —
-merging cybersecurity, AI workflows, and decentralized networks.
+🗂️ WorkflowBots — CRM + staffing + business automation agents
 
-We don’t just protect systems.
-We HACKTIVATE them — turning vulnerabilities into velocity.
+⚡ AutomationStacks — enterprise-grade SaaS automation pipelines
 
-┌──(steve㉿HACKTIVATE)-[~/specializations]
-└─$ cat specialties.sh
+🎛 LA Media Nation — Media + Marketing + AI Funnels
 
-💼 Core Expertise:
-- AI Automation Systems (GoHighLevel, Zapier, Make, Custom Agents)
-- Network Security Engineering & Encryption
-- Penetration Testing & Vulnerability Research
-- Smart Contract Auditing & DeFi Security
-- LoRaWAN / Helium IoT Mesh Deployment
-- Encrypted Telecom & Secure VoIP Infrastructure
-- Blockchain & Web3 Ecosystem Security
-- Cloud & DevSecOps Architecture
-- Ethical Hacking & Red Teaming
-- Executive Cybersecurity & Privacy Protection
+🛠 The Staffing DAO — Blockchain-Powered Workforce Platform
 
-┌──(steve㉿HACKTIVATE)-[~/projects]
-└─$ ./tools_and_projects.sh
+📡 OffGrid Network Solutions — Remote surveillance & off-grid communications
 
-🚀 Featured Tools & Projects:
-- NetMapper — network discovery & visualization
-- LoRaMonitor — secure LoRaWAN & Helium network analytics
-- FuzzForge — Web/API/IoT fuzzing automation
-- TokenWatch — DeFi risk radar & multisig validator
-- AI ReconX — adversarial AI scanner & prompt security tool
-- CertWatch — certificate transparency & TLS auditor
-- SecretsHunter — repository secret & key leak detector
-- SOCPlaybooker — automated blue-team response playbooks
-- ChainAuditor — smart contract diff & exploit simulator
-- PhishSim — realistic phishing awareness training suite
-- RedOrch — red team operation and reporting platform
-- IoTScout — firmware fingerprinting & anomaly detection
-- PromptGuard — AI prompt-injection testing and hardening
-- ContainerGuard — Docker & K8s image compliance scanner
-- PrivacyKit — executive device and communications privacy suite
-- ExploitHarvester — CVE + exploit correlation engine
-- HoneypotStack — live honeypot framework with alerting
-- ThreatTracer — CVE checker & exploit enumerator
-- WayBackupFinder — backup leak and directory enumerator
-- Project Dork — curated OSINT Google Dork automation
+💊 Vitablend Supplements — Holistic vitamins & wellness products
+
+---
+
+💻 AI & Automation
+
+🛰 Rocket Rabbit AI — AI SaaS & workflow automation engine for enterprise operations
+
+🤖 AI ReconX — adversarial AI scanner & prompt security tool for robust system protection
+
+🛡️ PromptGuard — AI prompt-injection testing & hardening for secure AI workflows
+
+📘 SOCPlaybooker — automated blue-team playbooks for incident response
+
+🗂️ WorkflowBots — CRM + staffing + business automation agents for streamlined operations
+
+⚡ AutomationStacks — enterprise-grade SaaS automation pipelines for scale and efficiency
+
+🔍 AutoAudit — automated compliance & workflow auditing tool for regulatory standards
+
+📊 InsightAI — AI-driven predictive analytics & decision-support agents
+
+📝 TaskMaster AI — AI-based task scheduling, delegation, and workflow orchestration
+
+🔗 ConnectorBot — API automation for SaaS, e-commerce, and custom app integrations
+
+🧰 OpsOptimizer — intelligent operations & process optimization agent
+
+🛠️ BuildFlow AI — custom automation frameworks for enterprise SaaS and staffing platforms
+
+⚙️ AI Automation Central — hub for designing, deploying, and managing AI automation ecosystems
+
+🛡 Cybersecurity & Network Security
+
+🔒 HACKTIVATE NETWORK SOLUTIONS — network architecture, encryption, penetration testing
+
+🛠 NetMapper — network discovery & visualization
+
+📡 LoRaMonitor — secure LoRaWAN & Helium IoT analytics
+
+🔍 FuzzForge — automated Web/API/IoT fuzzing & vulnerability scanning
+
+🏦 TokenWatch — DeFi risk monitoring & multisig validation
+
+🔑 CertWatch — TLS & certificate auditing
+
+🕵️ SecretsHunter — repository secret & key leak detection
+
+🧪 ChainAuditor — smart contract diff & exploit simulation
+
+🎯 RedOrch — red team operations & reporting platform
+
+🐟 PhishSim — realistic phishing simulation & security awareness training
+
+📦 ContainerGuard — Docker & K8s compliance scanning
+
+🛡️ PrivacyKit — executive device & communication privacy suite
+
+🧨 ExploitHarvester — CVE correlation & vulnerability intelligence
+
+🐾 HoneypotStack — live honeypot framework with alerts
+
+🔗 ThreatTracer — CVE enumeration & exploit intelligence
+
+🗂 WayBackupFinder — backup leak & directory vulnerability scanning
+
+🕵️ Project Dork — curated OSINT Google Dork automation
 
 ⚠️ For educational and authorized use only. Use responsibly.
 
-┌──(steve㉿HACKTIVATE)-[~/services]
-└─$ cat offerings.txt
+🔐 Core Services & Offerings
 
-🔐 Core Services:
-1️⃣ Cybersecurity Services — Pentesting, Red Teaming, Audits, Incident Response
-2️⃣ AI & Automation — Workflow bots, CRM automations, business logic agents
-3️⃣ Private Networks — VPNs, mesh networks, LoRa, Helium, encrypted comms
-4️⃣ Smart Contract & Blockchain Security — Web3 defense and audit frameworks
-5️⃣ Managed Protection — Onsite & remote SOC, executive protection, live response
+1️⃣ Cybersecurity Services
 
-💸 Tiered Offerings:
-- Rapid Deploy (freelance-ready)
-- Contract & Retainer (monthly)
-- Enterprise & VIP (24/7 global response)
+Network architecture & encryption
 
-┌──(steve㉿HACKTIVATE)-[~/team]
-└─$ cat structure.txt
+Penetration testing & vulnerability research
 
-👥 Core Team Roles:
-- Red Team Operator — offensive testing & exploit simulation
-- Network Architect — secure infrastructure & encryption
-- AI Automation Engineer — workflow & system integration
-- SOC Analyst — detection, response & defense
-- Smart Contract Auditor — blockchain + DeFi audits
-- Executive Security Advisor — VIP cyber-privacy & device control
+Red/Blue team operations & SOC monitoring
 
-┌──(steve㉿HACKTIVATE)-[~/clients]
-└─$ cat target_profiles.txt
+Smart contract & blockchain security audits
 
-🎯 Ideal Clients:
-- High-profile individuals & executives
-- Tech startups & automation agencies
-- Web3, DeFi, and blockchain firms
-- Media, talent, and production entities
-- Government & enterprise organizations
+Executive cybersecurity & privacy protection
 
-┌──(steve㉿HACKTIVATE)-[~/contact]
-└─$ cat reach_out.txt
+2️⃣ AI & Automation Services
 
-📡 Connect With Steve (HACKTIVATE):
-🌐 Website: https://www.StevesJobbs.com
-📧 info@stevesjobbs.com
-📧 hacktivate5150@gmail.com
-📧 blockchainstaffingsolutions@gmail.com
-📞 Direct: 323-396-0096
-📱 WhatsApp: 213-301-6016
-Alias: HACKTIVATE
+AI-powered workflow bots & agents
 
-┌──(steve㉿HACKTIVATE)-[~/philosophy]
-└─$ cat mindset.txt
+CRM automation & staffing system integrations
 
-⚔️ Philosophy:
-Adapt or perish. Automate or vanish.
-HACKTIVATE LABS believes in proactive, offensive, and intelligent security —
-where automation is the weapon, and knowledge is armor.
+Business process automation & operational optimization
 
-┌──(steve㉿HACKTIVATE)-[~/status]
-└─$ cat whats_next.md
+Predictive analytics & decision-support AI
 
-🎯 Upcoming Initiatives:
-- AI-driven Network Security Monitoring System
-- Decentralized Threat Intelligence Framework
-- Global HACKTIVATE Partner Program (HPP)
-- 24/7 Cyber Defense & Automation Hub
-- HACKTIVATE Learning Platform (certifications + courses)
+3️⃣ Private Networks & Infrastructure
 
+VPNs, encrypted communications
 
-┌──(steve㉿HACKTIVATE)-[~/credits]
-└─$ cat license.txt
+Mesh networks (LoRaWAN & Helium IoT)
 
-📜 License:
-All tools and research are open-source under MIT License unless otherwise noted.
-Use, modify, and improve — with credit and integrity.
+Remote & off-grid communication systems
 
-[✓] HACKTIVATE LABS environment initialized successfully.
-Type `launch.sh` to deploy your future.
+4️⃣ Custom App & SaaS Development
 
-NOTES:
+Full-stack web & mobile applications
 
-|-|4C|<T!V473 L4B$
-|-|4C|<TiV473+L48$  (yours, cleaned)
-H4CK†V473 L4B$      (adds dagger glyph for edgy accent)
-HΛCKTIVΛTE LΛBS
-/-|-| /-\ /_\. |-|4C|<TiV473+L48$ = HACKTIVATE LABS
+E-commerce, restaurant, and SaaS platforms
+
+API integrations, POS & payment processing systems
+
+Decentralized staffing & recruiting platforms
+
+5️⃣ Managed Security & Enterprise Support
+
+Onsite & remote SOC management
+
+24/7 global monitoring & executive protection
+
+Tiered service plans: Rapid Deploy, Contract/Retainer, Enterprise & VIP
+
+📈 Additional Highlights for GitHub Profile
+
+Full-stack expertise: Web, mobile, SaaS, and decentralized apps
+
+Digital transformation: Web2 → Web3, blockchain integration, AI-enabled workflows
+
+Staffing & recruiting technology: CRMs, automated pipelines, job board design, decentralized workforce platforms
+
+Restaurant & e-commerce solutions: Menu systems, payment integrations, online ordering
+
+Cybersecurity focus: Pen-testing, Red/Blue team, IoT security, blockchain audits
+
+AI/Automation focus: Intelligent agents, predictive analytics, workflow orchestration, SaaS pipelines
+
+💸 **Tiered Offerings**:  
+- Rapid Deploy (freelance-ready)  
+- Contract & Retainer (monthly)  
+- Enterprise & VIP (24/7 global response)  
 
 ---
 
-✅ **Instructions:**  
-1. Copy all text above into your `README.md`.  
-2. Delete any old version inside your repo.  
-3. Commit and push — GitHub will render this perfectly in dark mode with full terminal aesthetic.  
+## 👥 Core Team Roles
 
-MIT License
+- Red Team Operator — offensive testing & exploit simulation  
+- Network Architect — secure infrastructure & encryption  
+- AI Automation Engineer — workflow & system integration  
+- SOC Analyst — detection, response & defense  
+- Smart Contract Auditor — blockchain + DeFi audits  
+- Executive Security Advisor — VIP cyber-privacy & device control  
 
-Copyright (c) 2025 Steve Plasencia
+---
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+## 🎯 Ideal Clients
 
-The above copyright notice and this permission notice shall be included in
-all copies or substantial portions of the Software.
+- High-profile individuals & executives  
+- Tech startups & automation agencies  
+- Web3, DeFi, and blockchain firms  
+- Media, talent, and production entities  
+- Government & enterprise organizations  
+- Restaurants, e-commerce brands & staffing companies (digital transformation)  
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+---
+
+## ⚔️ Philosophy
+
+> Adapt or perish. Automate or vanish.  
+> HACKTIVATE LABS believes in proactive, offensive, and intelligent security —  
+> where automation is the weapon, and knowledge is armor.
+
+---
+
+## 🏗️ Upcoming Initiatives
+
+- AI-driven Network Security Monitoring System  
+- Decentralized Threat Intelligence Framework  
+- Global HACKTIVATE Partner Program (HPP)  
+- 24/7 Cyber Defense & Automation Hub  
+- HACKTIVATE Learning Platform (certifications + courses)  
+- HNS SecureStack — unified cybersecurity + automation dashboard  
+
+---
+
+## 📡 Contact
+
+🌐 [Website](https://www.StevesJobbs.com)  
+📧 info@stevesjobbs.com  
+📧 hacktivate5150@gmail.com  
+📧 blockchainstaffingsolutions@gmail.com  
+📞 Direct: 323-396-0096  
+📱 WhatsApp: 213-301-6016  
+**Alias:** HACKTIVATE  
+
+---
+
+## 📜 License
+
+MIT License © 2025 Steve Plasencia  
+
+Permission is hereby granted, free of charge, to any person obtaining a copy  
+of this software and associated documentation files (the "Software"), to deal  
+in the Software without restriction, including without limitation the rights  
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell  
+copies of the Software, and to permit persons to whom the Software is  
+furnished to do so, subject to the following conditions:  
+
+The above copyright notice and this permission notice shall be included in  
+all copies or substantial portions of the Software.  
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR  
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,  
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE  
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER  
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,  
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN  
 THE SOFTWARE.
 
 ---
-layout: default
-title: HACKTIVATE
----
 
-{% include_relative README.md %}
