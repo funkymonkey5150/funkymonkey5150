@@ -1,6 +1,7 @@
-# 🧪 HACKTIVATE LABS – Steve “Dappster” Plasencia
+# 🧪 HACKTIVATE NETWORK SOLUTIONS  - "Hactovate Labs" #
+# Steve “Dappster” Plasencia #
 
-> Automate revenue. Secure everything. Turn Web2 into a weaponized Web3 machine.
+> Automate revenue. Secure everything. Turn Web2 into a weaponized Web3 machine Digitize All Ops- Implement AI 
 
 Yo — I’m **Steve Plasencia** aka **DAPPSTER / FunkyMonkey5150 / Crypto Head Hunter / HACKTIVATE**.  
 This repo is the launchpad for my **Matrix-style hacker desktop**, **AI-powered video clipper stack**,  
