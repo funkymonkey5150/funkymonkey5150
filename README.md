@@ -1,4 +1,4 @@
-# 🧪 HACKTIVATE NETWORK SOLUTIONS  - "Hactovate Labs" #
+# 🧪 HACKTIVATE NETWORK SOLUTIONS  - "Hacktivate Labs" #
 # Steve “Dappster” Plasencia #
 
 > Automate revenue. Secure everything. Turn Web2 into a weaponized Web3 machine Digitize All Ops- Implement AI 
