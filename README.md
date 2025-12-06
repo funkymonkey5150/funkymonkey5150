@@ -1,277 +1,275 @@
-# 🚀 Steve Plasencia  
-🌐 [Live Profile](https://funkymonkey5150.github.io)  
-**aka:** `@FunkyMonkey5150` · `DAPPSTER` · `Crypto Head Hunter` · `HACKTIVATE`  
+# 🧪 HACKTIVATE LABS – Steve “Dappster” Plasencia
+
+> Automate revenue. Secure everything. Turn Web2 into a weaponized Web3 machine.
+
+Yo — I’m **Steve Plasencia** aka **DAPPSTER / FunkyMonkey5150 / Crypto Head Hunter / HACKTIVATE**.  
+This repo is the launchpad for my **Matrix-style hacker desktop**, **AI-powered video clipper stack**,  
+**cybersecurity tool suite**, and a **500+ AI automation library** built for serious operators.
 
 ---
 
-## 🛠 Technologies & Expertise
+## 🧬 Live Profile
 
-🌐 **SaaS | AI Agent/Bot Development | Automation**  
-⛓️ **Web3 & Blockchain Solutions**  
-🛡️ **Cybersecurity & Network Security | Penetration Testing**  
-💻 **Full-Stack Development | Custom App & Web Design**  
-🍽️ **Restaurant Tech & Payment Processing Solutions**  
-🛒 **E-Commerce Product & Website Development**  
-📈 **Staffing & Recruiting | CRM Systems | Job Board Design | Staffing Technology**  
+**Name:** Steve Plasencia  
+**Handles:** `@FunkyMonkey5150` · `DAPPSTER` · `Crypto Head Hunter` · `HACKTIVATE`  
 
----
+I architect systems that:
 
-## 💡 Mission
-
-**“Automate revenue, secure networks, and fully digitize businesses from Web2 → Web3.”**  
-
-I help businesses **scale, automate, and secure operations** by integrating:  
-- AI-powered workflow automation & SaaS solutions  
-- Blockchain & Web3 systems for decentralized operations  
-- Secure network architecture & penetration-tested infrastructures  
-- Full-stack custom apps, websites, and e-commerce solutions  
-- Staffing automation, CRM systems, and job board platforms  
-
-**Outcome:** Fully digital, fully automated, and fully secure businesses capable of scaling globally.
+- **Automate revenue** (AI, SaaS, n8n, GHL, custom bots)
+- **Secure networks and infra** (red/blue, OSINT, DeFi, IoT)
+- **Digitize & scale businesses** from **Web2 → Web3**
 
 ---
 
-## 🏢 Ventures & Projects
+## 🛠 Technologies & Core Expertise
 
-🛡 HACKTIVATE NETWORK SOLUTIONS — Cybersecurity & Network Security
-
-🖥 HACKTIVATE LABS — AI, Apps, Automation, Training & R&D
-
-⚙️ AI AUTOMATION CENTRAL — AI-powered workflow agents & business automation hub
-
-🛰 Rocket Rabbit AI — AI SaaS & workflow automation engine
-
-🤖 AI ReconX — adversarial AI scanner & prompt security tool
-
-🛡️ PromptGuard — AI prompt-injection testing & hardening
-
-📘 SOCPlaybooker — automated blue-team playbooks
-
-🗂️ WorkflowBots — CRM + staffing + business automation agents
-
-⚡ AutomationStacks — enterprise-grade SaaS automation pipelines
-
-🎛 LA Media Nation — Media + Marketing + AI Funnels
-
-🛠 The Staffing DAO — Blockchain-Powered Workforce Platform
-
-📡 OffGrid Network Solutions — Remote surveillance & off-grid communications
-
-💊 Vitablend Supplements — Holistic vitamins & wellness products
+- 🌐 **SaaS · AI Agents · Automation**  
+- 🤖 **AI Agent/Bot Development** (Ops, lead gen, staffing, content)  
+- ⛓ **Web3 & Blockchain** (DeFi, smart contracts, DAOs, on-chain analytics)  
+- 🛡 **Cybersecurity & Network Security** (pentesting, red/blue, OSINT, IoT)  
+- 💻 **Full-Stack Development** (apps, dashboards, internal tools)  
+- 🍽 **Restaurant Tech & Payments** (POS, online ordering, QR menus)  
+- 🛒 **E-Commerce & Product Systems** (Shopify, custom storefronts, funnels)  
+- 📈 **Staffing Tech** (CRMs, job boards, recruiting automations, talent pipelines)  
 
 ---
 
-💻 AI & Automation
+## 🎯 Mission
 
-🛰 Rocket Rabbit AI — AI SaaS & workflow automation engine for enterprise operations
+> “Automate revenue, secure networks, and fully digitize businesses from Web2 → Web3.”
 
-🤖 AI ReconX — adversarial AI scanner & prompt security tool for robust system protection
+I design and deploy systems that combine:
 
-🛡️ PromptGuard — AI prompt-injection testing & hardening for secure AI workflows
+- 🧠 **AI workflow automation** & SaaS engines  
+- ⛓ **Blockchain / Web3 infrastructure** for trustless ops  
+- 🔐 **Hardened network architecture** & penetration-tested stacks  
+- 💻 **Custom apps & e-commerce** (full stack)  
+- 🧬 **Staffing & CRM automation** for agencies, MSPs, and recruiting teams  
 
-📘 SOCPlaybooker — automated blue-team playbooks for incident response
-
-🗂️ WorkflowBots — CRM + staffing + business automation agents for streamlined operations
-
-⚡ AutomationStacks — enterprise-grade SaaS automation pipelines for scale and efficiency
-
-🔍 AutoAudit — automated compliance & workflow auditing tool for regulatory standards
-
-📊 InsightAI — AI-driven predictive analytics & decision-support agents
-
-📝 TaskMaster AI — AI-based task scheduling, delegation, and workflow orchestration
-
-🔗 ConnectorBot — API automation for SaaS, e-commerce, and custom app integrations
-
-🧰 OpsOptimizer — intelligent operations & process optimization agent
-
-🛠️ BuildFlow AI — custom automation frameworks for enterprise SaaS and staffing platforms
-
-⚙️ AI Automation Central — hub for designing, deploying, and managing AI automation ecosystems
-
-🛡 Cybersecurity & Network Security
-
-🔒 HACKTIVATE NETWORK SOLUTIONS — network architecture, encryption, penetration testing
-
-🛠 NetMapper — network discovery & visualization
-
-📡 LoRaMonitor — secure LoRaWAN & Helium IoT analytics
-
-🔍 FuzzForge — automated Web/API/IoT fuzzing & vulnerability scanning
-
-🏦 TokenWatch — DeFi risk monitoring & multisig validation
-
-🔑 CertWatch — TLS & certificate auditing
-
-🕵️ SecretsHunter — repository secret & key leak detection
-
-🧪 ChainAuditor — smart contract diff & exploit simulation
-
-🎯 RedOrch — red team operations & reporting platform
-
-🐟 PhishSim — realistic phishing simulation & security awareness training
-
-📦 ContainerGuard — Docker & K8s compliance scanning
-
-🛡️ PrivacyKit — executive device & communication privacy suite
-
-🧨 ExploitHarvester — CVE correlation & vulnerability intelligence
-
-🐾 HoneypotStack — live honeypot framework with alerts
-
-🔗 ThreatTracer — CVE enumeration & exploit intelligence
-
-🗂 WayBackupFinder — backup leak & directory vulnerability scanning
-
-🕵️ Project Dork — curated OSINT Google Dork automation
-
-⚠️ For educational and authorized use only. Use responsibly.
-
-🔐 Core Services & Offerings
-
-1️⃣ Cybersecurity Services
-
-Network architecture & encryption
-
-Penetration testing & vulnerability research
-
-Red/Blue team operations & SOC monitoring
-
-Smart contract & blockchain security audits
-
-Executive cybersecurity & privacy protection
-
-2️⃣ AI & Automation Services
-
-AI-powered workflow bots & agents
-
-CRM automation & staffing system integrations
-
-Business process automation & operational optimization
-
-Predictive analytics & decision-support AI
-
-3️⃣ Private Networks & Infrastructure
-
-VPNs, encrypted communications
-
-Mesh networks (LoRaWAN & Helium IoT)
-
-Remote & off-grid communication systems
-
-4️⃣ Custom App & SaaS Development
-
-Full-stack web & mobile applications
-
-E-commerce, restaurant, and SaaS platforms
-
-API integrations, POS & payment processing systems
-
-Decentralized staffing & recruiting platforms
-
-5️⃣ Managed Security & Enterprise Support
-
-Onsite & remote SOC management
-
-24/7 global monitoring & executive protection
-
-Tiered service plans: Rapid Deploy, Contract/Retainer, Enterprise & VIP
-
-📈 Additional Highlights for GitHub Profile
-
-Full-stack expertise: Web, mobile, SaaS, and decentralized apps
-
-Digital transformation: Web2 → Web3, blockchain integration, AI-enabled workflows
-
-Staffing & recruiting technology: CRMs, automated pipelines, job board design, decentralized workforce platforms
-
-Restaurant & e-commerce solutions: Menu systems, payment integrations, online ordering
-
-Cybersecurity focus: Pen-testing, Red/Blue team, IoT security, blockchain audits
-
-AI/Automation focus: Intelligent agents, predictive analytics, workflow orchestration, SaaS pipelines
-
-💸 **Tiered Offerings**:  
-- Rapid Deploy (freelance-ready)  
-- Contract & Retainer (monthly)  
-- Enterprise & VIP (24/7 global response)  
+**Outcome:**  
+Fully digital, fully automated, fully secure businesses that can **scale globally** and **run 24/7**.
 
 ---
 
-## 👥 Core Team Roles
+## 🧩 Flagship Systems in This Ecosystem
 
-- Red Team Operator — offensive testing & exploit simulation  
-- Network Architect — secure infrastructure & encryption  
-- AI Automation Engineer — workflow & system integration  
-- SOC Analyst — detection, response & defense  
-- Smart Contract Auditor — blockchain + DeFi audits  
-- Executive Security Advisor — VIP cyber-privacy & device control  
+### 1️⃣ Matrix Desktop Portfolio – `Hacktivate OS`
+
+> A **Matrix-style hacker desktop UI** for my personal portfolio and tools.
+
+- Neon **Matrix rainfall**, animated grid, scanlines  
+- Draggable, focusable **window manager** (console, notes, AI tools, monitor)  
+- Taskbar with active window sync, keyboard shortcuts, and system “vibe” stats  
+- Designed as a **living control center** to surface:
+  - Cyber tools
+  - AI automations
+  - N8N workflows
+  - AI Forms & content engines
+
+Used as my **primary visual layer** for demos, client walkthroughs, and live hacking/automation sessions.
+
+---
+
+### 2️⃣ AI Video Clipper Stack – Google AI Studio + Automations
+
+> 3-App system to **clip, repurpose, and publish** content automatically.
+
+Core capabilities:
+
+- 🧵 **Input:** YouTube URL or raw video file  
+- ✂️ **AI Clipper:**  
+  - Auto-detect hooks, moments, and highlight segments  
+  - Generate **shorts-ready** clip timestamps  
+- 🧠 **Metadata Engine (AI Studio / LLM):**  
+  - Titles, descriptions, tag words  
+  - Hashtags by platform (YT Shorts, Reels, TikTok)  
+  - Thumbnails text prompts & copy (CTR-optimized)  
+- 🚀 **Output & Distribution:**  
+  - Export metadata to **Google Sheets + Notion**  
+  - Ready to plug into schedulers (Publer, Metricool, native APIs)  
+  - Can be wired via **n8n / GHL / Make** for full automation
+
+This stack is being built as a **template-able, white-label automation product** for agencies and creators.
+
+---
+
+### 3️⃣ Cybersecurity Arsenal – 150+ Tools & Concepts
+
+> Research + tooling stack for **HACKTIVATE NETWORK SOLUTIONS**.
+
+Key platform + tool concepts:
+
+- 🔒 **HACKTIVATE NETWORK SOLUTIONS** – network architecture, encryption, pentesting  
+- 🛠 **NetMapper** – network discovery & visualization  
+- 📡 **LoRaMonitor** – secure LoRaWAN & Helium IoT analytics  
+- 🔍 **FuzzForge** – automated Web/API/IoT fuzzing & vuln scanning  
+- 🏦 **TokenWatch** – DeFi risk monitoring & multisig validation  
+- 🔑 **CertWatch** – TLS & certificate auditing  
+- 🕵 **SecretsHunter** – repo secret & key leak detection  
+- 🧪 **ChainAuditor** – smart contract diff & exploit simulation  
+- 🎯 **RedOrch** – red-team operations & reporting  
+- 🐟 **PhishSim** – phishing simulation & awareness training  
+- 📦 **ContainerGuard** – Docker & K8s compliance scanning  
+- 🛡 **PrivacyKit** – executive device & communication privacy  
+- 🧨 **ExploitHarvester** – CVE correlation & vuln intelligence  
+- 🐾 **HoneypotStack** – live honeypot framework with alerts  
+- 🔗 **ThreatTracer** – CVE enumeration & exploit intel  
+- 🗂 **WayBackupFinder** – backup leak & directory vulns  
+- 🕵 **Project Dork** – curated OSINT Google Dork automation  
+
+> ⚠️ **For educational and authorized use only.**  
+> Everything here assumes proper legal authorization and agreed scope.
+
+---
+
+### 4️⃣ AI Automation Library – 500+ Flows, Forms, & Agents
+
+> A growing **AI automation and n8n workflow library** for agencies, MSPs, and operators.
+
+Focus areas:
+
+- 🧠 **AI Forms & Agents**  
+  - Lead intake, qualification, and routing  
+  - Staff / candidate screening flows  
+  - Incident intake (security), triage, escalation logic  
+
+- ⚙️ **n8n + GHL + Sheets/Notion Automations**  
+  - Shopify → Sheets → Notion → Analytics  
+  - CRM sync, contact enrichment, task routing  
+  - Content queue pipelines (long-form → clips → posts)  
+  - Staff onboarding/offboarding automations  
+
+- 📚 **Reusable Templates**  
+  - 1-click deployable n8n flows  
+  - Google Sheets + Notion templates (Project Tracker, Automation Catalog, Content Engine)  
+  - Ready to be packaged as an **“Automation as a Product” library** for clients
+
+---
+
+## 🏢 Ventures & Brands
+
+- 🛡 **HACKTIVATE NETWORK SOLUTIONS** — Cybersecurity & Network Security  
+- 🖥 **HACKTIVATE LABS** — AI, Apps, Automation, Training & R&D  
+- ⚙️ **AI AUTOMATION CENTRAL** — Automation hub for workflow agents & ops  
+- 🛰 **Rocket Rabbit AI** — AI SaaS & workflow automation engine  
+- 🤖 **AI ReconX** — adversarial AI scanner & prompt security tool  
+- 🛡 **PromptGuard** — AI prompt-injection testing & hardening  
+- 📘 **SOCPlaybooker** — automated blue-team playbooks  
+- 🗂 **WorkflowBots** — CRM + staffing + business automation agents  
+- ⚡ **AutomationStacks** — enterprise-grade SaaS automation pipelines  
+- 🎛 **LA Media Nation** — Media · Marketing · AI Funnels  
+- 🛠 **The Staffing DAO** — blockchain-powered workforce platform  
+- 📡 **OffGrid Network Solutions** — remote surveillance & off-grid comms  
+- 💊 **Vitablend Supplements** — holistic vitamins & wellness products  
+
+---
+
+## 🔐 Core Services & Offerings
+
+### 1️⃣ Cybersecurity
+
+- Network architecture & encryption  
+- Penetration testing & vulnerability research  
+- Red/Blue team ops & SOC playbooks  
+- Smart contract & blockchain security audits  
+- Executive cybersecurity & privacy protection  
+
+### 2️⃣ AI & Automation
+
+- AI-powered workflow bots & agents  
+- CRM & staffing automation systems  
+- Business process automation & ops optimization  
+- Predictive analytics & decision-support AI  
+
+### 3️⃣ Private Networks & Infra
+
+- VPNs & encrypted communication stacks  
+- Mesh networks (LoRaWAN & Helium IoT)  
+- Remote & off-grid communication systems  
+
+### 4️⃣ Custom App & SaaS Dev
+
+- Full-stack web & mobile apps  
+- E-commerce, restaurant, and SaaS platforms  
+- API integrations, POS & payment systems  
+- Decentralized staffing & recruiting platforms  
+
+### 5️⃣ Managed Security & Enterprise Support
+
+- Onsite & remote SOC management  
+- 24/7 global monitoring & executive protection  
+- Tiered plans: **Rapid Deploy · Retainer · Enterprise · VIP**
+
+---
+
+## 💸 Engagement Models
+
+- ⚡ **Rapid Deploy** – short, high-impact builds & audits  
+- 📆 **Contract & Retainer** – monthly ops, automation, and security support  
+- 🛰 **Enterprise & VIP** – 24/7 global response, executive coverage, and custom stacks  
+
+---
+
+## 👤 Core Roles In the Stack
+
+- 🎯 Red Team Operator — offensive testing & exploit simulation  
+- 🧱 Network Architect — secure infra & encryption  
+- 🤖 AI Automation Engineer — system + workflow integration  
+- 🛰 SOC Analyst — detection, response & defense  
+- ⛓ Smart Contract Auditor — blockchain & DeFi security  
+- 🛡 Executive Security Advisor — VIP cyber-privacy & device control  
 
 ---
 
 ## 🎯 Ideal Clients
 
-- High-profile individuals & executives  
+- High-profile individuals & execs  
 - Tech startups & automation agencies  
 - Web3, DeFi, and blockchain firms  
 - Media, talent, and production entities  
-- Government & enterprise organizations  
-- Restaurants, e-commerce brands & staffing companies (digital transformation)  
+- Government & enterprise orgs  
+- Restaurants, e-com brands & staffing companies (digital transformation)  
 
 ---
 
 ## ⚔️ Philosophy
 
-> Adapt or perish. Automate or vanish.  
-> HACKTIVATE LABS believes in proactive, offensive, and intelligent security —  
-> where automation is the weapon, and knowledge is armor.
+> **Adapt or perish. Automate or vanish.**
+
+HACKTIVATE LABS runs on **proactive, offensive, intelligent security and automation**.  
+Automation is the weapon. Knowledge is the armor.
 
 ---
 
-## 🏗️ Upcoming Initiatives
+## 🏗️ Roadmap / Upcoming
 
 - AI-driven Network Security Monitoring System  
 - Decentralized Threat Intelligence Framework  
-- Global HACKTIVATE Partner Program (HPP)  
+- Global **HACKTIVATE Partner Program (HPP)**  
 - 24/7 Cyber Defense & Automation Hub  
-- HACKTIVATE Learning Platform (certifications + courses)  
-- HNS SecureStack — unified cybersecurity + automation dashboard  
+- HACKTIVATE Learning Platform (courses + certs)  
+- **HNS SecureStack** — unified cyber + automation dashboard  
 
 ---
 
-## 📡 Contact
+## 📡 Contact & Links
 
-🌐 [Website](https://www.StevesJobbs.com)  
-📧 info@stevesjobbs.com  
-📧 hacktivate5150@gmail.com  
-📧 blockchainstaffingsolutions@gmail.com  
-📞 Direct: 323-396-0096  
-📱 WhatsApp: 213-301-6016  
-**Alias:** HACKTIVATE  
+> For collabs, enterprise work, or custom automations:
 
----
-
-## 📜 License
-
-MIT License © 2025 Steve Plasencia  
-
-Permission is hereby granted, free of charge, to any person obtaining a copy  
-of this software and associated documentation files (the "Software"), to deal  
-in the Software without restriction, including without limitation the rights  
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell  
-copies of the Software, and to permit persons to whom the Software is  
-furnished to do so, subject to the following conditions:  
-
-The above copyright notice and this permission notice shall be included in  
-all copies or substantial portions of the Software.  
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR  
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,  
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE  
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER  
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,  
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN  
-THE SOFTWARE.
+- 📧 `info@stevesjobbs.com`  
+- 📧 `hacktivate5150@gmail.com`  
+- 📧 `blockchainstaffingsolutions@gmail.com`  
+- 📞 Direct: **+1 323-396-0096**  
+- 📱 WhatsApp: **+1 213-301-6016**  
+- Alias: **HACKTIVATE**
 
 ---
 
+## ⚠️ Legal & Ethical Use
+
+All security, OSINT, and red-team concepts in this ecosystem are intended for  
+**authorized, legal, and educational use only** — with explicit written permission and scope.
+
+**No exceptions. No gray areas.**
+
+---
